@@ -15,10 +15,6 @@ contract DegenFunkyCars is ERC20, Ownable {
         _mint(to, amount);
     }
 
-    function decimals() override public pure returns (uint8) {
-        return 0;
-    }
-
     function getBalance() external view returns (uint256) {
         return this.balanceOf(msg.sender);
     }

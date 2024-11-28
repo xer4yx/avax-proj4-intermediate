@@ -1,6 +1,6 @@
 # DegenFunkyCars - AVAX Project 4
 
-Simple overview of use/purpose.
+A Solidity smart contract for token creation with mint, transfer, reedem, burn, and check token balance functionalities
 
 ## Description
 
@@ -10,7 +10,7 @@ built using Solidity and deployed via the Remix IDE.
 
 ## Getting Started
 
-### Installing
+### Pre-requisites
 
 1. Remix IDE: [Click here](https://remix.ethereum.org)
 2. Avalanche Fuji Testnet setup in your wallet
