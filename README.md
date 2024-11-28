@@ -29,8 +29,6 @@ built using Solidity and deployed via the Remix IDE.
 - `transferToken(address _to, uint256 _amount)`: Transfer tokens to another address.
 - `burnToken(uint _amount)`: Burn a specified amount of the caller's tokens.
 - `redeemFunkyCars(string memory _nftCarName)`: Redeem a "Funky Car" NFT by burning 2 DGN tokens.
-- `getCarsList()`: Get the list of "Funky Cars" redeemed by the caller.
-- `getCarsOwned()`: Get the number of "Funky Cars" owned by the caller
 
 ## Testing on Avalanche Fuji Testnet
 1. Ensure MetaMask is connected to the Fuji Testnet.
