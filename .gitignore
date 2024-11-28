@@ -1,0 +1,5 @@
+/.states/
+/.git/
+/artifacts/
+
+.prettierrc.json
